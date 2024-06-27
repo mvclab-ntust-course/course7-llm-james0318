@@ -10,6 +10,11 @@ LLM(Large Language Model) and try to use different LoRA configs finally compare 
 
 ## Result
 
+Without LoRA 
+trainable model parameters: 65783042 all model parameters: 65783042 percentage of trainable model parameters: 100.00%
+Using LoRA
+trainable model parameters: 813314 all model parameters: 66596356 percentage of trainable model parameters: 1.22%
+
 Config 1
 
     r=8,
